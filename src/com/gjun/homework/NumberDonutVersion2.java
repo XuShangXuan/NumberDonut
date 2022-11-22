@@ -4,7 +4,7 @@ public class NumberDonutVersion2 {
 
 	public static void main(String[] args) {
 
-		int[][] numberDonuts = buildNumberDonut(5);
+		int[][] numberDonuts = buildNumberDonut(3);
 
 		for (int[] i : numberDonuts) {
 			for (int j : i) {
