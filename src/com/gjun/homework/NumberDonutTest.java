@@ -4,7 +4,7 @@ public class NumberDonutTest {
 
 	public static void main(String[] args) {
 
-		int[][] numberDonuts = buildNumberDonut(6);
+		int[][] numberDonuts = buildNumberDonut(3);
 
 		for (int[] i : numberDonuts) {
 			for (int j : i) {
